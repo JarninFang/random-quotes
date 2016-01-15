@@ -1,0 +1,16 @@
+html {
+	background-color: #113E41;
+	text-align: center;
+}
+
+#header, #quote-text, #quote-btn, body {
+	background-color: #113E41;
+	color: white;
+	margin: 2em;
+}
+
+#quote-btn {
+	border-style: solid;	
+	border-radius: 5px;
+	padding: 1em 1.25em;	
+}
